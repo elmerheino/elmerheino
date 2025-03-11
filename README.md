@@ -29,10 +29,10 @@ I'm an aspiring physicist with a passion for programmin with a keen interest in 
 
 Here are some of the projects I've been working on:
 
-### [Partial Dislocations](https://github.com/elmerheino/project1](https://github.com/elmerheino/partial-dislocations)
+### [Partial Dislocations](https://github.com/elmerheino/partial-dislocations)
 Python code for numerically solving the quenched Edwards-Wilkinson equation, a stochastic PDE that describes interface growth. Paralellization is exntensivery used to leverage all available resources when running the code on a supercomputer.
 
-### [Minesweeper](https://github.com/elmerheino/project2](https://github.com/elmerheino/minesweeper)
+### [Minesweeper](https://github.com/elmerheino/minesweeper)
 A simple minesweeper game programmed in C++ and SDL2 to showcase my solid skills in 
 
 ## Get in Touch
