@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello, I'm Elmer Heino! 👋
+# Hello, I'm Elmer! 👋
 
 ## About Me
 
